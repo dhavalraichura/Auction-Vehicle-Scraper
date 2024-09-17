@@ -1,0 +1,1 @@
+While it's great to buy a new car, not everyone can afford it. So I have created this utility to find used cars that are up for auctions. This helps people find cars which are available for auction. These cars are generally not used as much and are generally at a discounted rate. Being almost new this can help reduce the overall waste generated due to new cars being manufactured.
